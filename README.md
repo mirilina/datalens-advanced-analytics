@@ -2,13 +2,16 @@
 
 Продвинутая аналитика и сегментация клиентов клуба по интересам в Yandex DataLens: вычисляемые поля, сводные таблицы, двухосевые чарты и анализ разброса оценок.
 
-**Инструменты и стек:** Yandex DataLens, Feature Engineering, Pivot Tables, двухосевые чарты, сегментация
+**Инструменты и стек:** Yandex DataLens, Feature Engineering, Pivot Tables, двухосевые чарты, сегментация  
+**Интерактивный дашборд:** [открыть в Yandex DataLens](https://datalens.yandex/36py7sg2lxhsm?_share_link=public)
 
 ---
 
 ## Дашборд
 
-![Дашборд — Клуб по интересам: продвинутая аналитика](./images/dashboard.jpg)
+[![Дашборд — Клуб по интересам: продвинутая аналитика](./images/dashboard.jpg)](https://datalens.yandex/36py7sg2lxhsm?_share_link=public)
+
+*Нажмите на скриншот, чтобы открыть интерактивную версию с работающими фильтрами.*
 
 ---
 
